@@ -154,9 +154,9 @@ Este documento fornece uma vis√£o geral da API, descrevendo os endpoints dispon√
 
   ```json
   {
-    "name": "uriel",
-    "email": "uriel@mail.com",
-    "password": "uriel"
+    "name": "antonio",
+    "email": "antonio@mail.com",
+    "password": "antonio"
   }
   ```
 
