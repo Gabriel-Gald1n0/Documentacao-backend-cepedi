@@ -5,8 +5,6 @@ Este documento fornece uma visão geral da API, descrevendo os endpoints dispon�
 
 ## [DOC](https://gabriel-gald1n0.github.io/Documentacao-backend-cepedi/) no Github Pages. 
 
----
-
 ## **Autenticação**
 
 ### **Login**
