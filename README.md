@@ -3,6 +3,8 @@
 
 Este documento fornece uma visão geral da API, descrevendo os endpoints disponíveis, suas funcionalidades, exemplos de requisição e respostas de erro.
 
+## [DOC](https://gabriel-gald1n0.github.io/Documentacao-backend-cepedi/) no Github Pages. 
+
 ---
 
 ## **Autenticação**
