@@ -339,10 +339,6 @@ Este documento fornece uma visão geral da API, descrevendo os endpoints dispon�
 
 ---
 
-Se precisar de ajustes ou informações adicionais, é só avisar!
-
----
-
 ## **Regiões**
 
 ### **Criar Região**
